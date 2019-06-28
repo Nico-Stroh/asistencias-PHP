@@ -1,0 +1,16 @@
+﻿******* Atencion!! ********************************************
+El proyecto contiene la libreria de Bootstrap CDN por lo tanto 
+se necesita conexion de internet para funcionar correctamente.
+***************************************************************
+
+  Login:   
+        Usuario: Clases 
+        Contraseña: 1234
+
+	Usuario: Administracion
+	Contraseña: 123456
+
+
+Nombre de base de datos: 
+                        asistencias
+                        utf8_spanish_ci
